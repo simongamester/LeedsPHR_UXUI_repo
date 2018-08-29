@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="49px" height="50px" viewBox="0 0 49 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>pill-icon-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.5%" y="-5.8%" width="113.0%" height="111.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="1.22302158e-05 0.00445715503 16.9685683 0.00445715503 16.9685683 34.6464646 1.22302158e-05 34.6464646"></polygon>
+        <polygon id="path-4" points="0 0 17 0 17 19 0 19"></polygon>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Normal-view,-active-and-hover-states" transform="translate(-1056.000000, -237.000000)">
+            <g id="Page-content" transform="translate(31.000000, 0.000000)">
+                <g id="Medications-pod" filter="url(#filter-1)" transform="translate(934.000000, 230.000000)">
+                    <g id="Pod-top" transform="translate(1.000000, 0.000000)">
+                        <g id="pill-icon-white" transform="translate(114.384776, 32.384776) rotate(-315.000000) translate(-114.384776, -32.384776) translate(105.884776, 14.884776)">
+                            <g id="Group-3">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <path d="M8.4842964,0.00445715503 C3.79853381,0.00445715503 1.22302158e-05,3.78676725 1.22302158e-05,8.45253175 L1.22302158e-05,17.3254365 L1.22302158e-05,26.1984022 C1.22302158e-05,30.8641667 3.79853381,34.6464768 8.4842964,34.6464768 C13.170059,34.6464768 16.9685806,30.8641667 16.9685806,26.1984022 L16.9685806,17.3254365 L16.9685806,8.45253175 C16.9685806,3.78676725 13.170059,0.00445715503 8.4842964,0.00445715503" id="Fill-1" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                            </g>
+                            <path d="M8.00008972,18 C5.26727654,18 2.57645418,17.537184 0,16.6243846 L0,8.05758926 C0,3.61462793 3.58878002,0 8.00002991,0 C12.41122,0 16,3.61462793 16,8.05758926 L16,16.6243846 C13.4235458,17.5373045 10.7334413,18 8.00008972,18" id="Fill-4" fill="#1993EF"></path>
+                            <g id="Group-8"></g>
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <g id="Clip-7"></g>
+                            <path d="M8.5,0 C3.80555776,0 0,3.82232464 0,8.53745008 L0,17.5042248 L0.0464383789,17.5210237 C2.77907354,18.5071104 5.63938361,19 8.50006126,19 C11.3768514,19 14.2538867,18.5013262 17,17.5042248 L17,8.53745008 C17,3.82232464 13.1944422,0 8.5,0 M8.5,0.615342762 C10.6067585,0.615342762 12.5874963,1.43940979 14.0772003,2.93567725 C15.5669043,4.43194471 16.3873565,6.42134786 16.3873565,8.53745008 L16.3873565,17.0683775 C13.8436606,17.9420412 11.192507,18.3846572 8.50006126,18.3846572 C5.80804437,18.3846572 3.15640068,17.9419181 0.612643521,17.068316 L0.612643521,8.53745008 C0.612643521,6.42134786 1.43303446,4.43194471 2.92279971,2.93567725 C4.41250369,1.43940979 6.3931802,0.615342762 8.5,0.615342762" id="Fill-6" fill="#FFFFFF" mask="url(#mask-5)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

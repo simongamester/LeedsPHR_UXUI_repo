@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="21px" viewBox="0 0 15 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>bookmark-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FontAwesome5ProSolid, Font Awesome 5 Pro" font-size="20" font-weight="700">
+        <g id="Header" transform="translate(-1023.000000, -16.000000)" fill="#1993EF">
+            <g transform="translate(0.000000, -7.000000)" id="Secondary-menu">
+                <g transform="translate(1023.000000, 7.000000)">
+                    <text id="bookmark-icon">
+                        <tspan x="0" y="34"></tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

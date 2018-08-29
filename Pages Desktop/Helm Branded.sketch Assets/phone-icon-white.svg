@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="47px" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>phone-icon-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-6.5%" y="-5.8%" width="113.0%" height="111.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Normal-view,-active-and-hover-states" transform="translate(-565.000000, -238.000000)" fill="#FFFFFF">
+            <g id="Page-content" transform="translate(31.000000, 0.000000)">
+                <g id="Contacts-pod" filter="url(#filter-1)" transform="translate(444.000000, 230.000000)">
+                    <g id="Pod-top" transform="translate(1.000000, 0.000000)">
+                        <path d="M99,22.25 C99,21.8307271 99.193683,21.3134796 99.5810547,20.6982422 C99.9684264,20.0830047 100.430987,19.5065131 100.96875,18.96875 C101.506513,18.4309869 102.083005,17.9684264 102.698242,17.5810547 C103.31348,17.193683 103.830727,17 104.25,17 C104.787763,17.2643242 105.434892,17.870438 106.191406,18.8183594 C106.94792,19.7662808 107.599607,20.6914017 108.146484,21.59375 C108.693362,22.4960983 109.144529,23.2981736 109.5,24 C109.5,24.2916681 109.062504,25.0208275 108.1875,26.1875 C107.312496,27.3541725 106.875,28.0833319 106.875,28.375 C107.157553,29.2226605 107.834305,30.2867775 108.905273,31.5673828 C109.976242,32.8479882 111.152012,34.0237577 112.432617,35.0947266 C113.713223,36.1656955 114.77734,36.8424465 115.625,37.125 C115.916668,37.125 116.645827,36.6875044 117.8125,35.8125 C118.979173,34.9374956 119.708332,34.5 120,34.5 C120.875004,34.9375022 122.041659,35.7031195 123.5,36.796875 C124.958341,37.8906305 126.124996,38.8749956 127,39.75 C127,40.1692729 126.806317,40.6865204 126.418945,41.3017578 C126.031574,41.9169953 125.569013,42.4934869 125.03125,43.03125 C124.493487,43.5690131 123.916995,44.0315736 123.301758,44.4189453 C122.68652,44.806317 122.169273,45 121.75,45 C120.328118,44.7174465 118.796883,44.1546266 117.15625,43.3115234 C115.515617,42.4684203 113.913745,41.454433 112.350586,40.2695312 C110.787427,39.0846295 109.256192,37.7425205 107.756836,36.2431641 C106.257479,34.7438076 104.915371,33.2125729 103.730469,31.6494141 C102.545567,30.0862552 101.53158,28.4843832 100.688477,26.84375 C99.8453734,25.2031168 99.2825535,23.6718821 99,22.25 Z" id="phone-icon-white"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
